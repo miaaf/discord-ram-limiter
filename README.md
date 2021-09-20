@@ -6,7 +6,7 @@ By using the function called ```GC.Collect();``` reduces memory usage by prevent
 
 # Developers
 [faraj#2607](https://discord.com/users/635406751495356436)
-[miaf#2458](https://discord.com/users/308986559292768258)
+[miaf#1337](https://discord.com/users/308986559292768258)
 
 # Credits
 [Lufzys](https://github.com/Lufzys)
